@@ -1,0 +1,25 @@
+.mouse-position{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: aquamarine;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.custom-scale{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: aquamarine;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+/* .overview{
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+} */

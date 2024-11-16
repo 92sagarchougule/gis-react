@@ -1,0 +1,11 @@
+.ol-attribution{
+    display: none;
+}
+.ol-rotate{
+    display: none;
+}
+.ol-zoom{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
